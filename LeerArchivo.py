@@ -12,3 +12,7 @@ def lines(nombreArchivo,N):
   fg
   fg
   f
+  hewhehew
+  ewewew
+  ewe
+  wew
